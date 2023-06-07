@@ -72,10 +72,10 @@ To launch the project locally you need a EVM compatible wallet, like Metamask, w
 You can learn more about the local hardhat network here: https://hardhat.org/hardhat-network/docs/overview
 
 ### Add this local network:
-Network name: Hardhat Network
-RPC URL: http://127.0.0.1:8545
-Chain Id: 31337
-Currency Symbol: ETH
+- Network name: Hardhat Network
+- RPC URL: http://127.0.0.1:8545
+- Chain Id: 31337
+- Currency Symbol: ETH
 
 ### Import Hardhat development account
 Use one of the default Hardhat accounts to test the project, when launching the local node Hardhat will display list of accounts that have their addresses and private keys shown.
